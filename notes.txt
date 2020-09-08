@@ -1,12 +1,12 @@
-GitHub page: https://it-jeroen.github.io/Coursera_WebDevelopment_Hopkins/
-Need to keep CMD open for Browser-Sync to stay active
-GitHub reposetory: https://github.com/IT-Jeroen/Coursera_WebDevelopment_Hopkins.git
+GitHub page: https://it-jeroen.github.io/Coursera_Web_Development/
+GitHub repository: https://it-jeroen.github.io/Coursera_Web_Development.git
 
 git push Coursera_Web_Development Site_Test # push to remote and create new branch
-git push --set-upstream Coursera_Web_Development Site_Test #push to remote and excisitng branch
+git push --set-upstream Coursera_Web_Development Site_Test #push to remote and existing branch
 git ls-files # list files in branch
-git branch # displays the excisting brnaches
+git branch # displays the existing branches
 
 Start up Browser-Sync Server
-cd C:\Users\M\Documents\Eclipse_Workspaces\JavaScript_HTML-workspace\Coursera_Web_Devellopment
+cd C:\Users\M\Documents\Eclipse_Workspaces\JavaScript_HTML-workspace\Coursera_Web_Development
 browser-sync start --server --directory --files "*"
+Need to keep CMD open for Browser-Sync to stay active
