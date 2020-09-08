@@ -1,7 +1,0 @@
-GitHub page: https://it-jeroen.github.io/Coursera_WebDevelopment_Hopkins/
-Need to keep CMD open for Browser-Sync to stay active
-GitHub reposetory: https://github.com/IT-Jeroen/Coursera_WebDevelopment_Hopkins.git
-
-Start up Browser-Sync Server
-cd C:\Users\M\Documents\Eclipse_Workspaces\JavaScript_HTML-workspace\Coursera_Web_Devellopment
-browser-sync start --server --directory --files "*"
