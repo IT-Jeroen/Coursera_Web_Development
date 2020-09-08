@@ -2,6 +2,11 @@ GitHub page: https://it-jeroen.github.io/Coursera_WebDevelopment_Hopkins/
 Need to keep CMD open for Browser-Sync to stay active
 GitHub reposetory: https://github.com/IT-Jeroen/Coursera_WebDevelopment_Hopkins.git
 
+git push Coursera_Web_Development Site_Test # push to remote and create new branch
+git push --set-upstream Coursera_Web_Development Site_Test #push to remote and excisitng branch
+git ls-files # list files in branch
+git branch # displays the excisting brnaches
+
 Start up Browser-Sync Server
 cd C:\Users\M\Documents\Eclipse_Workspaces\JavaScript_HTML-workspace\Coursera_Web_Devellopment
 browser-sync start --server --directory --files "*"
