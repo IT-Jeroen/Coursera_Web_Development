@@ -10,9 +10,13 @@ Start up Browser-Sync Server
 cd C:\Users\M\Documents\Eclipse_Workspaces\JavaScript_HTML-workspace\Coursera_Web_Development
 cd C:\Users\M\Documents\Eclipse_Workspaces\JavaScript_HTML-workspace\Coursera_FIles\examples
 browser-sync start --server --directory --files "*"
+browser-sync start --server --directory --files "**/*" keep track of changes of any file in any folder inside directory
 Need to keep CMD open for Browser-Sync to stay active
 
 
 Git repository > Settings > GitHub Pages: Source  allows you to change which page to display / host
 
 DOM Document Object Model
+
+https://github.com/jhu-ep-coursera/fullstack-course4
+https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/assignments
